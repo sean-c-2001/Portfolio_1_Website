@@ -39,13 +39,4 @@ var acc = document.getElementsByClassName("accordion");
             alert("Your score is " + score)
         }
 
-        const name = domcument.getElementById("name")
-        const email = domcument.getElementById("email")
-        const category = domcument.getElementById("category")
-        const subject = domcument.getElementById("subject")
-        const message = domcument.getElementById("message")
-
-        function validateForm()
-        {
-          console.log("Hello World!")
-        }
+       
